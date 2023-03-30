@@ -21,7 +21,7 @@ height:19%;
 display: flex;
 background-color: #161515;
 color: #7fad7f;
-font-size: 25px;
+font-size: 15px;
 
 
 }
@@ -38,24 +38,24 @@ font-size: 25px;
 .navbar ul li{
   list-style: none;
   display: flex;
- padding: 0 10px;  
+ padding: 0 5px;  
 }
 
 button{
-width: 65px;
+width: 40px;
   /* height: 35px; */
-  margin: 10px;
+  margin: 7px;
   background-color: rgb(22, 21, 21);
   color: white;
-  font-size: 25px;
-  border-radius: 15px;
+  font-size: 15px;
+  border-radius: 10px;
   /* padding: 0 5px 5px 0px; */
  
 
 }
-.icon h3{
+.icon h4{
   /* padding: 10px; */
-  margin: 10px;
+  margin: 12px;
 }
 .icon img{
   height:80px;
@@ -353,12 +353,12 @@ display: flex;
 .weather{
 
   width: 150px;
-  height: 85vh;
+  height: 75vh;
 }
 
 .date-time{
   height: 50px;
-	width:140px
+  width: 140px;
   display: flex;
   justify-content: center;
   align-items:center;
