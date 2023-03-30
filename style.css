@@ -353,11 +353,12 @@ display: flex;
 .weather{
 
   width: 150px;
-  height: 65vh;
+  height: 75vh;
 }
 
 .date-time{
   height: 50px;
+	width:140px
   display: flex;
   justify-content: center;
   align-items:center;
